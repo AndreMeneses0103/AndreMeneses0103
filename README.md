@@ -15,7 +15,7 @@ I'm a passionate Brazilian developer with a thirst for knowledge and a deep inte
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andremeneses&show_icons=true&theme=dark)](https://github.com/andremeneses)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreMeneses0103&show_icons=true&theme=dark)](https://github.com/AndreMeneses0103)
 
 
 Feel free to explore my profile, star, fork, and collaborate on my projects. Let's embark on this coding journey together! 🚀
