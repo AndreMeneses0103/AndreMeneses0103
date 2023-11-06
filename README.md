@@ -5,7 +5,7 @@ I'm a passionate Brazilian developer with a thirst for knowledge and a deep inte
 
 ## 🌍 About Me
 
-- 🇧🇷 Based in beautiful Brazil.
+- 🇧🇷 Based in Brazil.
 - 🎂 18 years old and full of curiosity.
 - 👀 I'm on a mission to learn more about programming.
 - 🌱 Currently, I'm diving into the exciting worlds of Node.js, JavaScript, and React.
