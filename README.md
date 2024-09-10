@@ -15,7 +15,9 @@ I'm a passionate Brazilian developer with a thirst for knowledge and a deep inte
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreMeneses0103&show_icons=true&theme=synthwave)](https://github.com/AndreMeneses0103)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreMeneses0103&show_icons=true&theme=synthwave)](https://github.com/AndreMeneses0103) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMeneses0103&hide_progress=false&layout=compact&show_icons=true&theme=synthwave)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AndreMeneses0103&theme=synthwave&no-frame=true&no-bg=false&margin-w=4)
 
 
 Feel free to explore my profile, star, fork, and collaborate on my projects. Let's embark on this coding journey together! 🚀
