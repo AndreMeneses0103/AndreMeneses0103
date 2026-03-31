@@ -6,7 +6,7 @@ I'm a passionate Brazilian developer with a thirst for knowledge and a deep inte
 ## 🌍 About Me
 
 - 🇧🇷 Based in Brazil.
-- 🎂 20 years old and full of curiosity.
+- 🎂 21 years old and full of curiosity.
 - 👀 I'm on a mission to learn more about programming.
 - 🌱 Currently, I'm diving into the exciting worlds of Node.js, JavaScript, and React.
 - 💻 Be sure to check out my website: [André Meneses' Dev Site](https://andremenesesdev.vercel.app).
